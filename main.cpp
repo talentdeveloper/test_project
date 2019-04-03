@@ -14,5 +14,5 @@ function addFunction(int a, int b)
 
 function multipliFunction(int a, int b)
 {
-    print (a * b);
+    print (a * b); //add explanation
 }
