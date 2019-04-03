@@ -10,7 +10,7 @@ main()
 
 function addFunction(int a, int b)
 {
-    print (a + b); // add explanation
+    print (a + b); // add explanation plus function
 }
 
 function multipliFunction(int a, int b)
