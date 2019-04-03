@@ -20,5 +20,5 @@ function multipliFunction(int a, int b)
 
 function minusFunction(int a, int b)
 {
-    print (a - b);
+    print (a - b); //add explanation
 }
