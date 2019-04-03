@@ -7,15 +7,15 @@ main()
     addFunction(a, b);
     multipliFunction(a, b);
 }
-
-function addFunction(int a, int b)
+// here starts functions
+function add(int a, int b)
 {
-    print (a + b); // add explanation plus function with printf
+    print (a + b); 
 }
 
-function multipliFunction(int a, int b)
+function multipli(int a, int b)
 {
-    print (a * b); //add explanation multiply function
+    print (a * b); 
 }
 
 function minusFunction(int a, int b)
