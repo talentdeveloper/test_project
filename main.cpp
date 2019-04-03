@@ -13,9 +13,10 @@ function addFunction(int a, int b)
     print (a + b); // add 
 }
 
-function multipliFunction(int a, int b)
+function multipli(int a, int b)
 {
     print (a * b); //add 
+    print (a * b); 
 }
 
 function minusFunction(int a, int b)
