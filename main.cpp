@@ -5,6 +5,7 @@ print (c);
 main()
 {
     addFunction(a, b);
+    multipliFunction(a, b);
 }
 
 function addFunction(int a, int b)
