@@ -16,3 +16,8 @@ function multipliFunction(int a, int b)
 {
     print (a * b); //add explanation multiply function
 }
+
+function minusFunction(int a, int b)
+{
+    print (a - b);
+}
