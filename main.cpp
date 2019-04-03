@@ -11,3 +11,8 @@ function addFunction(int a, int b)
 {
     print (a + b);
 }
+
+function multipliFunction(int a, int b)
+{
+    print (a * b);
+}
