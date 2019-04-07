@@ -22,3 +22,11 @@ function minusFunction(int a, int b)
 {
     print (a - b); //add explanation
 }
+
+{
+    print (a + b); // add explanation plus function with printf
+}
+
+{
+    print (a + b); // add explanation plus function with printf
+}
