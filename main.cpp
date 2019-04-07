@@ -33,3 +33,25 @@ function minusFunction(int a, int b)
 {
     print (a - b); //add explanation for minus
 }
+
+function addFunction(int a, int b)
+{
+    print (a + b); // add 
+}
+
+function multipli(int a, int b)
+{
+    print (a * b); //add 
+    print (a * b); 
+}
+
+function addFunction(int a, int b)
+{
+    print (a + b); // add 
+}
+
+function multipli(int a, int b)
+{
+    print (a * b); //add 
+    print (a * b); 
+}
